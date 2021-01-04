@@ -1,0 +1,10 @@
+f1=int(input('enter marks of first student\n'))
+f2=int(input('enter marks of second student\n'))
+f3=int(input('enter marks of third student\n'))
+f4=int(input('enter marks of fourth student\n'))
+f5=int(input('enter marks of fifth student\n'))
+f6=int(input('enter marks of sixth student\n'))
+f7=int(input('enter marks of seventh student\n'))
+marks=[f1,f2,f3,f4,f5,f6,f7]
+marks.sort()
+print(marks)

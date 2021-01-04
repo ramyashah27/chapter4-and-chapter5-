@@ -1,0 +1,10 @@
+f1=input('enter name of fruits\n')
+f2=input('enter name of fruits\n')
+f3=input('enter name of fruits\n')
+f4=input('enter name of fruits\n')
+f5=input('enter name of fruits\n')
+f6=input('enter name of fruits\n')
+f7=input('enter name of fruits\n')
+fruitlist=[f1,f2,f3,f4,f5,f6,f7]
+print(fruitlist)
+print()
